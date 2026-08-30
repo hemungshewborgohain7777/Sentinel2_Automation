@@ -1,4 +1,4 @@
-# Sentinel-2 Analysis Dashboard
+# Sentinel-2 Automation DOC
 
 An interactive **Google Earth Engine (GEE)** application for exploring Sentinel-2 satellite imagery and generating commonly used spectral indices for remote sensing analysis.
 
