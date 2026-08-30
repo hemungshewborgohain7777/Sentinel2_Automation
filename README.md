@@ -141,7 +141,7 @@ Open the **Google Earth Engine Code Editor** and sign in with your Google accoun
 Create a new JavaScript script and copy the contents of:
 
 ```text
-sentinel2_dashboard.js
+sentinel2_automation.js
 ```
 
 into the Code Editor.
@@ -196,9 +196,9 @@ An Earth Engine export task will be created. Open the **Tasks** tab in the Code 
 ## Project Structure
 
 ```text
-sentinel-2-analysis-dashboard/
+Sentinel2-Automation/
 │
-├── sentinel2_dashboard.js
+├── sentinel2_automation.js
 ├── README.md
 ├── screenshots/
 │   ├── dashboard.png
