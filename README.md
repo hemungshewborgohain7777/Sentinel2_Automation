@@ -2,6 +2,9 @@
 
 $\color{red}{\text{***Link attached below About to check it out - Just login your codeEditor id***}}$
 
+$\color{red}\textsf{Link attached below About to check it out - Just login your codeEditor id}$
+
+
 
 An interactive **Google Earth Engine (GEE)** application for exploring Sentinel-2 satellite imagery and generating commonly used spectral indices for remote sensing analysis.
 
