@@ -1,5 +1,7 @@
 # Sentinel-2 Automation DOC
 
+#Link attached below About to check it out - Just login your codeEditor id
+
 An interactive **Google Earth Engine (GEE)** application for exploring Sentinel-2 satellite imagery and generating commonly used spectral indices for remote sensing analysis.
 
 The dashboard provides an interactive interface for selecting an Area of Interest (AOI), filtering Sentinel-2 imagery by date and cloud cover, visualizing satellite composites and spectral indices, and exporting analysis results to Google Drive.
